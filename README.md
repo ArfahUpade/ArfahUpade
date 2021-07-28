@@ -32,3 +32,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arfahupade&show_icons=true&locale=en&theme=dracula" alt="arfahupade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arfahupade&theme=dracula" alt="arfahupade" /></p>
+
+### A little joke for you: 😂
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
