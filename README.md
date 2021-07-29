@@ -30,11 +30,18 @@ Here are some ideas to get you started:
 <br />
 
 ### We'zz gotzz statzz: 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arfahupade&show_icons=true&locale=en&layout=compact&theme=dracula" alt="arfahupade" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arfahupade&show_icons=true&locale=en&layout=compact&theme=dracula" alt="arfahupade" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arfahupade&show_icons=true&locale=en&theme=dracula" alt="arfahupade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arfahupade&theme=dracula" alt="arfahupade" /></p>
+
+<!-- ### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+<br/>
+---
+-->
 
 ### A little joke for you: 😂
 <!-- Markdown -->
