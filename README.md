@@ -36,11 +36,8 @@ Here are some ideas to get you started:
 
 ### We'zz gotzz statzz: 
 <br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arfahupade&show_icons=true&locale=en&layout=compact&theme=dracula" alt="arfahupade" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arfahupade&show_icons=true&locale=en&theme=dracula" alt="arfahupade" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arfahupade&theme=dracula" alt="arfahupade" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arfahupade&show_icons=true&locale=en&layout=compact&theme=dracula" alt="arfahupade" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arfahupade&show_icons=true&locale=en&theme=dracula" alt="arfahupade" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=arfahupade&theme=dracula" alt="arfahupade" /></p>
 
 <!-- ### Now Playing 🎧
 
@@ -52,7 +49,9 @@ Here are some ideas to get you started:
 
 ### A little joke for you: 😂
 <!-- Markdown -->
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="arfahupade" />
+</p>
 <hr>
 <h3 align="center">👇 Have a look at some of my work 👇</h3>
 
