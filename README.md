@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p><img align="center" src="https://user-images.githubusercontent.com/56472876/127607189-60ed4a54-ebad-4bff-9e6c-397e5b8b288f.gif" alt="Let's make the world a better place" /></p>
+
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=ArfahUpade.ArfahUpade&color=00cf00)
 <h1 align="center">Hi 👋, I'm Arfah Upade</h1>
-<h3 align="center">An aspiring IT Engineer from India</h3>
+<h3 align="center">How's the weather at your end?</h3>
 
 
 <h3 align="left">Languages and Tools I've used:</h3>
@@ -49,6 +51,7 @@ Here are some ideas to get you started:
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<p align="center">I'll see you soon. 😉</p>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&multiline=true&height=100&lines=Arfah+Upade+here.;Thank+you+for+stopping+by!;Hope+to+meet+soon.+%F0%9F%98%89)](https://git.io/typing-svg)
-
+<!--  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&multiline=true&height=100&lines=Arfah+Upade+here.;Thank+you+for+stopping+by!;Hope+to+meet+soon.+%F0%9F%98%89)](https://git.io/typing-svg)
+-->
