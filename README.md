@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br />
 
 ### We'zz gotzz statzz: 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arfahupade&show_icons=true&locale=en&layout=compact&theme=dracula" alt="arfahupade" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arfahupade&show_icons=true&locale=en&layout=compact&theme=dracula" alt="arfahupade" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arfahupade&show_icons=true&locale=en&theme=dracula" alt="arfahupade" /></p>
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<p align="center">I'll see you soon. 😉</p>
+<h3 align="center">I'll see you soon. 😉</h3>
 
 <!--  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&multiline=true&height=100&lines=Arfah+Upade+here.;Thank+you+for+stopping+by!;Hope+to+meet+soon.+%F0%9F%98%89)](https://git.io/typing-svg)
 -->
